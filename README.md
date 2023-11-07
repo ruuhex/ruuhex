@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruuhex
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python and Networking
-- 💞️ I’m looking to collaborate on Ethical Hackers Team
+- 👀 I’m interested in Cricket Analytics 
+- 🌱 I’m currently learning Performance Analysis 
+- 💞️ I’m looking to collaborate on Cricket Analysis Team
 - 📫 How to reach me ...
 
 <!---
